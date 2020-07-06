@@ -1,0 +1,20 @@
+# cms_php相关
+/cms_php/runtime/*
+/cms_php/public/attachments/
+/cms_php/.idea/
+/cms_php/vendor/
+/cms_php/.env*
+
+# cms_vue相关
+/cms_vue/node_modules/
+/cms_vue/dist/
+/cms_vue/yarn.lock
+/cms_vue/.env*
+
+
+# system ignore
+.git/
+.DS_Store
+.idea/*
+*.phar
+Thumbs.db
